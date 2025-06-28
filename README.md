@@ -8,9 +8,9 @@ Please visit the main repo [here](https://github.com/thomasxm/Boaz_beta).
 
 
 
+![output1](https://github.com/user-attachments/assets/05d0ae70-693c-497b-8063-bf973967cf3e)
 
 
-<img width="352" alt="small_logo" src="https://github.com/thomasxm/Boaz_beta/assets/44269971/99abcf82-7084-47e5-a993-2a712b4ca664">
 
 # BOAZ Evasion and Antivirus Testing Tool (for educational purpose)
 
